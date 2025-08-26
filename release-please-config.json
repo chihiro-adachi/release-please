@@ -10,5 +10,5 @@
   "include-v-in-tag": false,
   "include-component-in-tag": false,
   "tag-separator": "@",
-  "group-pull-request-title-pattern": "chore: release from ${branch}",
+  "group-pull-request-title-pattern": "chore: release from ${branch}"
 }
