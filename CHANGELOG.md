@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0](https://github.com/chihiro-adachi/release-please/compare/0.0.1...1.0.0) (2025-08-26)
+
+
+### Features
+
+* Add a new line with 'test' to the file ([#4](https://github.com/chihiro-adachi/release-please/issues/4)) ([6db294a](https://github.com/chihiro-adachi/release-please/commit/6db294aba3f53c0dd91f18ace33cbefb6555fa53))
+
+
+### Miscellaneous Chores
+
+* release 1.0.0🎉 ([bfda5f7](https://github.com/chihiro-adachi/release-please/commit/bfda5f7cec71dfdf0858c75828e4d140bb85d7e0))
+
 ## 0.0.1 (2025-08-26)
 
 
